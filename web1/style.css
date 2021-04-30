@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Krona+One&family=Lobster&display=swap');
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Krona One;
+    padding-top: 56px;
+}
+
+.jumbotron {
+    background: url("image.jpg") no-repeat center;
+}
+.btn-primary {
+    background-color: #c60063;
+    border-color: #c60063;
+}
+
+.btn-secondary {
+    background-color: transparent;
+    border-color: #c60063;
+    color: #c60063;
+}
+
+#contact {
+    background: url("contact.jpg") no-repeat center;
+}
+
+  .navbar .navbar-brand {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2.5rem;
+  }
